@@ -20,3 +20,8 @@ Version 2.1
 **2026.8.20**
 Version 3
 - change the font color to manifest the text related to the date and details of each exercise
+
+**2026.8.22**
+Version 4
+- Add calender selection and signify one's log depending on date.
+- 
