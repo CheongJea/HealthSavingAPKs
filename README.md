@@ -24,4 +24,9 @@ Version 3
 **2026.8.22**
 Version 4
 - Add calender selection and signify one's log depending on date.
-- 
+
+
+**2026.9.3**
+Version 5
+- Add language selection button between ENG or KOR.
+- Add some weight (for anaerobic) and time (for running).
