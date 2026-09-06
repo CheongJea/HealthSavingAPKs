@@ -30,3 +30,7 @@ Version 4
 Version 5
 - Add language selection button between ENG or KOR.
 - Add some weight (for anaerobic) and time (for running).
+
+**2026.9.6**
+Version 6
+- Edit the daily map display to signify which type was conducted.
